@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: whjv2axdn-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/whjv2axdn-java-springboot
